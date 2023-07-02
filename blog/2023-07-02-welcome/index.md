@@ -2,7 +2,7 @@
 slug: Blog
 title: Blog
 authors:
-  - name: Tuaghmohammad Kalte
+    name: Tuaghmohammad Kalte
     title: IT Manager
     url: https://github.com/Tuaghmohammad
     image_url: https://avatars.githubusercontent.com/u/6276341?v=4
